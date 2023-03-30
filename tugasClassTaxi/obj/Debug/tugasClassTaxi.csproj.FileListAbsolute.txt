@@ -1,0 +1,6 @@
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.exe.config
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.exe
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.pdb
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.csprojResolveAssemblyReference.cache
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.exe
+D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.pdb
