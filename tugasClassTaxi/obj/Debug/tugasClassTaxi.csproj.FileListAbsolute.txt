@@ -4,11 +4,3 @@ D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.
 D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.csprojResolveAssemblyReference.cache
 D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.exe
 D:\5183\class and object\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.pdb
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.exe.config
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.exe
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\bin\Debug\tugasClassTaxi.pdb
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.csproj.AssemblyReference.cache
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.csproj.SuggestedBindingRedirects.cache
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.exe
-C:\Users\Administrator\Downloads\Compressed\tugasClassTaxi-20230405T124927Z-001\tugasClassTaxi\tugasClassTaxi\obj\Debug\tugasClassTaxi.pdb

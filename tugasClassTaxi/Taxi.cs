@@ -24,19 +24,12 @@ namespace tugasClassTaxi
 
         public void PickUpPassenger()
         {
-            if (NumPassenger  >=1 && OnDuty == true)
-            {
-                Console.WriteLine("Jono sedang menjemput penumpang");
-            }
+            Console.WriteLine("Jono sedang menjemput penumpang");
         }
 
         public void DropOffPassenger()
         {
-            if (NumPassenger == 0 && OnDuty == false)
-            {
-                Console.WriteLine("Jono selesai menjemput penumpang");
-            }
+            Console.WriteLine("Jono selesai menjemput penumpang");
         }
     }
 }
-    
